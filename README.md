@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srahimani
 - 👀 I’m interested in data analytics and data science
 - 🌱 I’m currently pursuing a Master of Science in Business Analytics
-- 😄 Pronouns: She/Her
+- 📫 You can reach me on my email: sharmeenrahimani@gmail.com
 - ⚡ Fun fact: I can speak 4 languages 
 
 <!---
