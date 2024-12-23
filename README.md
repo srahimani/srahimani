@@ -19,7 +19,7 @@ I am passionate about data analytics, data science, and business analytics. Curr
 - R
 - SQL
 
-#### **Data Visualization:**
+#### **Data Preparation:**
 - Tableau Prep
 - Pandas
   
