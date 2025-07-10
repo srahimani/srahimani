@@ -1,51 +1,40 @@
-# 👋 Hi, I’m [@srahimani](https://github.com/srahimani)
+# 👋 Hi, I’m Sharmeen Rahimani
 
-I am passionate about data analytics, data science, and business analytics. Currently, I am pursuing my **Master of Science in Business Analytics**.
+I'm a data and business analyst passionate about transforming raw data into actionable insights and process improvements. With hands-on experience in customer support engineering and currently pursuing a Master’s in Business Analytics at Mercer University, I bring a strong blend of technical skills and problem-solving abilities to tackle real-world challenges. Proficient in Python, SQL, R, Tableau, and Excel, I focus on leveraging data to optimize operations, support decision-making, and drive business value.
 
-### 📚 Currently Learning:
-- Advanced data science techniques
-- Business intelligence tools and frameworks
+## 💡 What I Do
+I specialize in:
 
-### 💬 Get in Touch:
-- **Email**: sharmeenrahimani@gmail.com
+* **Data Analytics & Visualization:**
+Translating complex datasets into actionable insights through dashboards, storytelling, and reports using Tableau, Power BI, and advanced Excel.
 
-### 🔍 Fun Fact:
-- I speak 4 languages fluently!
+* **Statistical Modeling & Machine Learning:**
+Developing and interpreting models for classification, regression, and forecasting using Python and R to solve real-world business problems.
 
-### 🛠️ Technical Skills:
+* **Database Management:**
+Cleaning, transforming, and querying structured data using SQL and Python, and automating recurring tasks to improve efficiency.
 
-#### **Programming & Analytics:**
-- Python
-- R
-- SQL
+* **Business Process Optimization:** 
+Applying analytics to identify inefficiencies, streamline operations, and support data-driven decision-making across cross-functional teams.
 
-#### **Data Preparation:**
-- Tableau Prep
-- Pandas
+
+
+## 🛠️ Technical Skills
+
+* **Languages:** `R`, `Python`, `SQL`
+
+* **Tools:** Excel (Advanced: `PivotTables`, `Solver`, `VLOOKUP`, `XLOOKUP`), Tableau, Power BI, Tableau Prep
   
-#### **Data Visualization:**
-- Tableau
-- Power BI
+* **Database Management:** SQL Developer, MySQL
 
-#### **Database Management:**
-- SQL Developer
-- MySQL
+* **Web & Software Development:** Java, HTML, CSS, JavaScript, VB, .NET Framework
 
-#### **Microsoft Office Suite:**
-- Advanced Excel (Pivot Tables, VLOOKUP, Solver)
-- Word
-- PowerPoint
+* **Cloud & Version Control:** Azure DevOps, GitHub
 
-#### **Web & Software Development:**
-- Java
-- HTML
-- CSS
-- JavaScript
-- VB
-- .NET Framework
+## 💬 Get in Touch
+If you’d like to connect or chat about analytics, feel free to reach out. I'm always happy to collaborate on meaningful projects and learn from others in the field. <br>
 
-#### **Cloud & Version Control:**
-- Azure DevOps
-- GitHub
+#### 📧 [Email Me](mailto:sharmeenrahimani@gmail.com) 
+#### 💼 [LinkedIn](https://www.linkedin.com/in/srahimani)
 
 
