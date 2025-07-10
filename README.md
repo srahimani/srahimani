@@ -27,14 +27,16 @@ Applying analytics to identify inefficiencies, streamline operations, and suppor
   
 * **Database Management:** SQL Developer, MySQL
 
-* **Web & Software Development:** Java, HTML, CSS, JavaScript, VB, .NET Framework
+* **Data Science Methods:** Predictive Modeling, Classification, Logistic Regression, Multiple Linear Regression, Clustering, Time Series Forecasting, Feature Engineering, Hypothesis Testing, Dimensionality Reduction
+
+* **Web & Software Development:** `Java`, `HTML`, `CSS`, `JavaScript`, `VB`, `.NET Framework`
 
 * **Cloud & Version Control:** Azure DevOps, GitHub
 
 ## 💬 Get in Touch
 If you’d like to connect or chat about analytics, feel free to reach out. I'm always happy to collaborate on meaningful projects and learn from others in the field. <br>
 
-#### 📧 [Email Me](mailto:sharmeenrahimani@gmail.com) 
-#### 💼 [LinkedIn](https://www.linkedin.com/in/srahimani)
+📧 [Email Me](mailto:sharmeenrahimani@gmail.com) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/srahimani)
 
 
